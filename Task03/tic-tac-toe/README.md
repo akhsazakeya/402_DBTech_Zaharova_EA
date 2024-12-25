@@ -132,7 +132,7 @@
 - [PHP Documentation](https://www.php.net/docs.php)
 - [Composer Documentation](https://getcomposer.org/doc/)
 
-- # [Packagist](https://packagist.org/packages/kirillzharkov/tic-tac-toe)
+- # [Packagist](https://packagist.org/packages/akhsazakeya/tic-tac-toe)
 
 ## Ссылки на пакеты
 
